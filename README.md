@@ -48,10 +48,3 @@
 **A portfolio risk dashboard.** It ingests holdings, computes rolling Sharpe, Beta, VaR and CVaR plus Fama-French 3-factor exposures, and pushes updates over WebSockets.
 
 - **Stack:** FastAPI, SQLAlchemy and Alembic, APScheduler, Redis pub/sub, React, Vite and Recharts, Docker Compose, GitHub Actions CI
-
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdullahimohamed101&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahimohamed101&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</p>
