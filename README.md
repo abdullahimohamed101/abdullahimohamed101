@@ -20,7 +20,7 @@
 **A flight recorder for AI agents.** It records every model call, tool call, file edit, shell command, retry and failure, with cost and latency attached, and streams the run live to a dashboard.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullahimohamed101/agent-black-box/HEAD/docs/screenshots/phase-7/dashboard.png" width="85%" alt="Agent Black Box dashboard" />
+  <img src="https://raw.githubusercontent.com/abdullahimohamed101/agent-black-box/HEAD/docs/screenshots/phase-6/story.png" width="85%" alt="Agent Black Box run view: a coding agent fails a test, retries and passes" />
 </p>
 
 - **Stack:** Python SDK → FastAPI → PostgreSQL (events + outbox) → workers → SSE → Next.js
