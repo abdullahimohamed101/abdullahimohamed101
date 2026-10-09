@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/the-abdullahi-mohamed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,fastapi,postgres,redis,docker,githubactions&perline=10" alt="Tech stack" />
 </p>
 
